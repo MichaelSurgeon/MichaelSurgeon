@@ -5,5 +5,4 @@
 
 - 🌱 I’m currently a software engineer working in Edinburgh
 - 🚀 Currently for my job I focus on C# and Angular
-- 🏫 Trying to learn python/flask and angualr right now
 - 💬 Ask me about anything! im a friendly guy and always looking to take on projects. 
