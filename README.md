@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello there Im Surgeon 👋
+### Hello There Im Surgeon 👋
 ![Profile views](https://komarev.com/ghpvc/?username=Suttie23&color=red&style=flat)
 
 ![0001](https://media1.tenor.com/m/HYBKG4ZNb5AAAAAC/everything-is-fine-itsfine.gif)
