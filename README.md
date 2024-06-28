@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello There Im Surgeon 👋
-![Profile views](https://komarev.com/ghpvc/?username=MichaelSurgeon&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MichaelSurgeon&style=for-the-badge&color=orange)
 <br>
 ![0001](https://media1.tenor.com/m/dWGCpWhgMEEAAAAC/9z-9zteam.gif)
 ##
