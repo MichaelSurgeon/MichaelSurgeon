@@ -6,6 +6,7 @@
 ![0001](https://media1.tenor.com/m/HYBKG4ZNb5AAAAAC/everything-is-fine-itsfine.gif)
 
 ##
+### About me
   🌱 I’m currently a software engineer working in Edinburgh
   <br>
   🚀 Currently for my job I focus on C#
