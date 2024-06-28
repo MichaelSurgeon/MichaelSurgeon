@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello There Im Surgeon 👋
-![Profile views](https://komarev.com/ghpvc/?username=MichaelSurgeon&style=for-the-badge&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=MichaelSurgeon&style=for-the-badge&color=blue)
 <br>
 ![0001](https://media1.tenor.com/m/dWGCpWhgMEEAAAAC/9z-9zteam.gif)
 ##
@@ -16,7 +16,7 @@
 ##
 
 ### Stats 🎯
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichaelSurgeon&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MichaelSurgeon&theme=meta-light)](https://git.io/streak-stats)
 ##
 
 ### Languages 
