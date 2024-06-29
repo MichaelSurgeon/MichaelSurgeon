@@ -9,11 +9,11 @@
 
 ### About me 🧑‍🦰
 ##
-  🌱 I’m currently a software engineer working in Edinburgh
+  🌱 I’m currently a software engineer working in the American healthcare industry.
   <br>
-  🚀 Currently for my job I focus on C#
+  🚀 Currently for my job I focus on C#, Azure, .Net and the occasional angular 
   <br>
-  💬 Ask me about anything!
+  💬 Always open to learn and chat about all things tech! 
   
 ##
 
