@@ -16,8 +16,8 @@
 ##
 
 ### Stats 🎯
-[![GitHub Streak](https://streak-stats.demolab.com?user=MichaelSurgeon&theme=meta-light)](https://git.io/streak-stats)
 ##
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=MichaelSurgeon&show_icons=true&theme=dracula)
 
 ### Languages 
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/csharp.svg'>
