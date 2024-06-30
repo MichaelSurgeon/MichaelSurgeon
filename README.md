@@ -13,7 +13,7 @@
   <br>
   🚀 Currently for my job I focus on C#, Azure, .Net and the occasional angular 
   <br>
-  💬 Always open to learn and chat about all things tech! 
+  💬 Always open to chat about all things tech drop me a message! 
   
 ##
 
