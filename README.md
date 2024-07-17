@@ -22,11 +22,7 @@
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=MichaelSurgeon&show_icons=true&theme=dracula)
 ##
 ### Languages 
-##
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/csharp.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/css.svg'>  
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/html.svg'> 
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/javascript.svg'> 
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/mysql.svg'> 
+## 
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,cpp,java&theme=dark)
  
 </div>
