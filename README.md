@@ -23,6 +23,6 @@
 ##
 ### Languages 
 ## 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,cpp,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java&theme=dark)
  
 </div>
