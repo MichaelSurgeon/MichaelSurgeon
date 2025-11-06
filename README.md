@@ -9,11 +9,11 @@
 
 ### About me 🧑‍🦰
 ##
-  🌱 I’m currently a software engineer working in the American healthcare industry.
+  🌱 I’m currently a Software Engineer in the American healthcare industry, working at Craneware where I’m helping build our first AI-powered product.
   <br>
-  🚀 Currently for my job I focus on C#, Azure, .Net and the occasional angular 
+  🚀 My day-to-day focuses on C#, .NET, Azure, Python, and the occasional Angular project.
   <br>
-  💬 Always open to chat about all things tech drop me a message! 
+  💬 Always happy to chat about all things tech — feel free to drop me a message!
   
 ##
 
@@ -23,6 +23,6 @@
 ##
 ### Languages 
 ## 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java,python&theme=dark)
  
 </div>
