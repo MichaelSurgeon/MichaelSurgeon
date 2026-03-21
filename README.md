@@ -24,6 +24,7 @@
 ### Languages 
 ## 
 ![MichaelSurgeon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelSurgeon&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+## 
 ![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java,python&theme=dark)
  
 </div>
