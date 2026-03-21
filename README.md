@@ -19,10 +19,11 @@
 
 ### Stats 🎯
 ##
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=MichaelSurgeon&show_icons=true&theme=dracula)
+![MichaelSurgeon's Stats](https://github-readme-stats.vercel.app/api?username=MichaelSurgeon&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ##
 ### Languages 
 ## 
+![MichaelSurgeon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelSurgeon&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java,python&theme=dark)
  
 </div>
