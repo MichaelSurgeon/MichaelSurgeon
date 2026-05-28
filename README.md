@@ -9,22 +9,12 @@
 
 ### About me 🧑‍🦰
 ##
-  🌱 I’m currently a Software Engineer working in the American healthcare industry, working at Craneware where I’m helping build our first AI-powered product.
+  🌱 I’m currently a AI Engineer working at Tomoro.ai where I’m helping build AI soultions for enterprise clients.
   <br>
-  🚀 My day-to-day focuses on C#, .NET, Azure, Python, Microsoft AI tools like semantic kernel and agent framework and the occasional Angular project.
+  🚀 My day-to-day focuses on Python and various AI tools.
   <br>
   💬 Always happy to chat about all things tech — feel free to drop me a message!
   
 ##
-
-### Stats 🎯
-##
-![MichaelSurgeon's Stats](https://github-readme-stats.vercel.app/api?username=MichaelSurgeon&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-##
-### Languages 
-## 
-![MichaelSurgeon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelSurgeon&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-## 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,nodejs,postgres,cs,java,python&theme=dark)
  
 </div>
